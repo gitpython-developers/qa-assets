@@ -1,0 +1,5 @@
+[submodule "libfoo"]
+	path = ™include/foo
+	url = git://foo.com/git/lib.gibbar"]
+	path = include/Yar
+	url = git__class__m$git/lib.git
